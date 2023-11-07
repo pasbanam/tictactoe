@@ -1,5 +1,11 @@
 <!-- # ⭕ Tic-Tac-Toe -->
 
+Discord username: pasban
+
+Aleo wallet: aleo1x3tnk75zn635tar3zwunwlxsjnzxxwu537s9uprsnxd293unfq9qgj9wca
+
+-------
+
 [//]: # (<img alt="workshop/tictactoe" width="1412" src="../.resources/tictactoe.png">)
 
 A standard game of Tic-Tac-Toe in Leo.
